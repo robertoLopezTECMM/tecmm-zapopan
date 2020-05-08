@@ -333,7 +333,30 @@ export default function CarrerasData(){
       folleto: FoIngSistemas,
     };
 
-
+    carrerasArray[23]={
+      name: 'Maestria-en-Sistemas-Computacionales',
+      link:'http://tecmm.edu.mx/Carrera/Maestria-en-Sistemas-Computacionales',
+      card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-maestria-en-sistemas-computacionales-movil.jpg',
+      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Sistemas-Computacionales.jpg',
+      youtube:'rdWPqiy3RRc',
+      campus: 'ZAPOPAN',
+      objetivo: "Formar líderes de excelencia con sólidos conocimientos en sistemas computacionales de alto nivel competitivo que analicen, diseñen y desarrollen software, en las áreas de multimedia y cómputo ubicuo.",
+      perfilEgreso : [
+                      {perfil:"El egresado de la maestría será un profesionista competente capaz de proponer, diseñar, implementar y desarrollar software de cómputo ubicuo o multimedia, teniendo la habilidad para participar en equipos multidisciplinarios y en la identificación de problemas o áreas de oportunidad, aportando propuestas de solución aplicando las metodologías y tecnologías de información emergentes que cumplan con estándares internacionales. Tendrá la habilidad para mejorar la toma de decisiones, que contribuya a resolver eficazmente los problemas de las organizaciones privadas y públicas, en el uso de tecnologías de vanguardia."},
+                      {perfil:"Analizar, desarrollar y programar modelos matemáticos, estadísticos y de simulación."},
+                      {perfil:"Reconocer y guiarse por los aspectos sociales, profesionales y éticos en su entorno."},
+                      {perfil:"Dirigir y coordinar equipos de trabajo multi e interdisciplinarios."},
+                      {perfil:"Coordinar y realizar investigaciones que fortalezcan el desarrollo cultural, científico y tecnológico."},
+                      {perfil:"Desarrollar y administrar sistemas de información, redes de computadoras y aplicaciones distribuidas."},
+                      {perfil:"Poseer una visión empresarial y detectar áreas de oportunidad para emprender y desarrollar proyectos aplicando las tecnologías de información y de las comunicaciones."},
+                      {perfil:"Seleccionar y administrar los recursos humanos y computacionales para unidades de servicios de cómputo."},
+                      {perfil:"Estar comprometido con el desarrollo sustentable, respetando el entorno social y cultural donde se desarrollan las organizaciones."},
+                      {perfil:"Desarrollar y administrar software de aplicación y de base."},
+                      {perfil:"Aplicar nuevas tecnologías a la solución de problemas de su entorno laboral."},
+      ],
+      reticula: null,
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Maestria-Sistemas-Computacionales.pdf',
+    };
 
 
     {/*carrerasArray[23]={

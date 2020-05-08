@@ -19,7 +19,7 @@ class Enlaces extends Component {
         <h1>ENLACES</h1>
 
         <a target="_blank" href="">
-          <img src="http://tecmm.edu.mx/imagenesCampus/sice.png"/>
+          <img src="http://tecmm.edu.mx/imagenesCampus/edcore.png"/>
         </a>
 
         <a target="_blank" href="">
@@ -30,7 +30,7 @@ class Enlaces extends Component {
           <img style={{marginRight:"5px"}}  src="http://tecmm.edu.mx/imagenesCampus/convocatorias.JPG"/>
         </a>
 
-        <a target="_blank" href="http://www.posgrado.tecmm.edu.mx/">
+        <a target="_blank" href="http://tecmm.edu.mx/Carrera/Maestria-en-Sistemas-Computacionales">
           <img src="http://tecmm.edu.mx/imagenesCampus/posgrados.JPG"/>
         </a>
 
